@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://forms.gle/E5MRPKeyVNNGE3UeA"
+  status = 301
+  force = true
